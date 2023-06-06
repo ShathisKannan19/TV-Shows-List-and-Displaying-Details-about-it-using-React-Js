@@ -20,7 +20,7 @@ function NavbarEx() {
             <Nav.Link href="show">Home</Nav.Link>
             <NavDropdown title="Link" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-              <NavDropdown.Item href="/show">Movie List</NavDropdown.Item>
+              <NavDropdown.Item href="/">Movie List</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/contact">Contact Us</NavDropdown.Item>
             </NavDropdown>
