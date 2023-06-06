@@ -1,0 +1,33 @@
+.footer {
+  background-color: #f9f9f9;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-links {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  margin: 0 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.developer-info {
+  font-size: 14px;
+}
+
+.developer-info p {
+  margin: 5px 0;
+}
+
+.social-media {
+  margin-top: 10px;
+}
+
+.social-media a {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
