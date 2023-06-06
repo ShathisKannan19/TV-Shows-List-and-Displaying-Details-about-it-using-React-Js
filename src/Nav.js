@@ -17,7 +17,7 @@ function NavbarEx() {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="show">Home</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <NavDropdown title="Link" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
               <NavDropdown.Item href="/">Movie List</NavDropdown.Item>
